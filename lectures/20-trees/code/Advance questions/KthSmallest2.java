@@ -1,4 +1,7 @@
 class KthSmallest {
+  /*
+   * The notion of this module to learn about the Kth smallest element.
+   */
   private int k;
   private int ans;
   
